@@ -1,0 +1,117 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+h1 {
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.namehighlight {
+    color: #e02194;
+    margin-top: -30px;
+}
+
+.half-width {
+    max-width: 40%;
+    float: left;
+    padding-left: 2%;
+    margin-left: 5%
+}
+
+.half-width img {
+    width: 80%;
+}
+
+.top {
+    background-image: url("images/header-bg.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    padding: 150px 0;
+}
+
+.btn {
+    text-decoration: none;
+    background-color: #e02194;
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: white;
+    font-weight: 400;
+}
+
+.padp {
+    padding-bottom: 25px;
+}
+
+h2 {
+    font-size: 40px;
+    font-weight: 300;
+}
+
+p {
+    color: dimgray;
+    text-align: justify;
+    font-size: 14px;
+}
+
+.dream {
+    background-image: url("images/biography-bg.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    padding: 150px 0;
+}
+
+.middle {
+    margin-top: 65px;
+}
+
+section {
+    height: 400px;
+}
+
+.exp {
+    background-image: url("images/latest-work-bg.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    padding: 80px 0;
+    text-align: center;
+}
+
+.width-exp {
+    width: 20%;
+    float: left;
+    padding-left: 2%;
+    margin-left: 1%;
+}
+
+.exp-pad {
+    padding-left: 285px;
+    padding-top: 15px;
+}
+
+.clients {
+    background-image: url("images/footer-bg.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    padding: 60px 0;
+    text-align: center;
+}
+
+.clients p {
+    text-align: center;
+}
+
+.msg {
+    background-color: #e02194;
+    display: inline-block;
+    padding: 30px 150px;
+    margin-top: 20px;
+    color: aliceblue;
+    border-radius: 5px;
+}
+
+footer p {
+    text-align: center;
+    font-size: 10px;
+}
